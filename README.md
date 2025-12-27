@@ -121,7 +121,22 @@ Gestión comercial completa
 - **Universidad**: Facultad Politécnica - UNE
 
 
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dario616&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dario616&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dario616&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
+
 
 💡 *"Soluciones digitales para problemas reales"*
 
