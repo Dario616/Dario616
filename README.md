@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Herz Dev
 
-### 💻 Desarrollador Full-Stack | 🎓 Estudiante de Análisis de Sistemas
+### 💻 Desarrollador Full-Stack 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desarrollador+Full-Stack;Especializado+en+PHP+%26+PostgreSQL;Creando+soluciones+empresariales;Ciudad+del+Este%2C+Paraguay" alt="Typing SVG" />
 
@@ -18,7 +18,7 @@
 ```javascript
 const herzDev = {
     ubicacion: "Ciudad del Este, Paraguay 🇵🇾",
-    educacion: "Análisis de Sistemas (7mo semestre) - FP-UNE",
+    educacion: "Análisis de Sistemas - FP-UNE",
     enfoque: "Desarrollo de soluciones web para negocios",
     objetivo: "Optimizar procesos mediante tecnología",
     
